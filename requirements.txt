@@ -1,0 +1,6 @@
+# requirements.txt
+# Install all dependencies with: pip3 install -r requirements.txt
+
+boto3       # AWS SDK for Python — used in Lab 09 to read from DynamoDB
+tabulate    # Pretty-prints data as formatted tables in the terminal
+flask       # Web framework — used in upcoming labs

@@ -1,0 +1,6 @@
+# Python bytecode — generated automatically when you run a script, no need to track
+__pycache__/
+*.pyc
+
+# macOS metadata files — created automatically by Finder, not part of your project
+.DS_Store
